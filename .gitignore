@@ -8,3 +8,6 @@ _site
 *.swp
 *.swo
 DS_Store
+
+# Ignore lock files
+*.lock
